@@ -1,0 +1,19 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Sep 8, 2020, 1:16:55 PM
+    Author     : aleli
+*/
+#portada{
+    text-align: center;
+    padding: 100px;
+    background-color:rgba(172, 187, 187, 0.5);
+}
+
+body{
+    background-image: url("../5581322.jpg");
+    background-size: cover;
+}
